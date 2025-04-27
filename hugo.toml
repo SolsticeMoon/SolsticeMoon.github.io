@@ -1,0 +1,4 @@
+baseURL = 'https://SolsticeMoon.github.io/'
+languageCode = 'en-us'
+title = 'Alert Forge'
+theme = 'PaperMod'
